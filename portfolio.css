@@ -1,0 +1,76 @@
+button{
+    background-color: white;
+    color:white;
+    border: none;
+    height: 30px;
+    width: 80px;
+    transition: opacity 0.8s;
+}
+button:hover{
+    background-color:lightgray;
+    opacity: 0.8;
+}
+.button:active{
+    opacity:0.5;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+nav a{
+    background-color: white;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: left;
+}
+body{
+    
+    font-size: 24px;         
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.6oDovPcMChgM3GkFr7PxwQHaD7&pid=Api&P=0&h=180');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+section{
+   font-size:30px;
+    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    text-align: center;
+}
+th, td {
+    border: 1px solid #020000;
+    padding: 8px;
+    text-align: left;
+}
+form {
+    margin-bottom: 50px;
+}
+.heading{
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    padding: 180px;
+    color: black;
+}
+.contact-buttons{
+    text-align: top;
+}
+.heading{
+    font-size:30px;
+    font-style: bold;
+}.progress {
+    border-radius: 10px;
+  }
+  
+  .progress .progress-bar {
+    width: 0px;
+    border-radius: 10px;
+    transition: 2s;
+  }
